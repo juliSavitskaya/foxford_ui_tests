@@ -1,1 +1,1 @@
-# foxford_ui_tests
+# wildberries_ui_tests
